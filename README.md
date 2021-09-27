@@ -3,7 +3,7 @@
 I'm a front-end developer who loves to code!
 
 Feel at home! 🐧
-<div>
+<div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="30"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="60" />
