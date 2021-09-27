@@ -2,7 +2,7 @@
 
 I'm a front-end developer who loves to code!
 
-Feel at home! 🐧
+**Feel at home, have fun! 🐧**
 
 
 <div style="display: flex; align-items: center;">
