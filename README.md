@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hey, and welcome to my profile!
 
-<!--
-**rodrigonahid/rodrigonahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer who loves to code!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ___ __
+   (_  ( . ) )__                  '.    \   :   /    .'
+     '(___(_____)      __           '.   \  :  /   .'
+                     /. _\            '.  \ : /  .'
+                .--.|/_/__      -----____   _  _____-----
+_______________''.--o/___  \_______________(_)___________
+       ~        /.'o|_o  '.|  ~                   ~   ~
+  ~            |/    |_|  ~'         ~
+               '  ~  |_|        ~       ~     ~     ~
+      ~    ~          |_|O  ~                       ~
+             ~     ___|_||_____     ~       ~    ~
+   ~    ~      .'':. .|_|A:. ..::''.
+             /:.  .:::|_|.\ .:.  :.:\   ~
+  ~         :..:. .:. .::..:  .:  ..:.       ~   ~    ~
+             \.: .:  :. .: ..:: .lcf/
+    ~      ~      ~    ~    ~         ~
+               ~           ~    ~   ~             ~
+        ~         ~            ~   ~                 ~
+   ~                  ~    ~ ~                 ~
