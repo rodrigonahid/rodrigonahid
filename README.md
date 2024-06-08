@@ -1,6 +1,6 @@
 # Hey, welcome to my profile!
 
-I'm a front-end developer who loves to code!
+I'm a software engineer who loves to code!
 
 **Feel at home, have fun! 🐧**
 
